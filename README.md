@@ -3,7 +3,7 @@
 После установки git напишите следующие команды для скачивания скрипта и пакетов.
 ```
 sudo apt install network-manager
-git clone
+git clone https://github.com/PecherskyDaniil/testrepository
 ```
 
 Для запуска скрипта используйте данные команды
